@@ -3,7 +3,7 @@
 ### Jeux de gestions de port
  le jeux se concentre sur quelque aspect.
  - La gestion du port
- - La gestion de bateaux,
+ - La gestion de machineries,
  - La gestion de trajet,
  - La gestion d'economie
 
